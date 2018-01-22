@@ -23,3 +23,5 @@ A Xamarin.Forms client for the LbCalculator function.
 In addition, you may want to check the CoinValue sample which shows a more complex Azure Function and the corresponding Xamarin client,
 implemented for iOS, Android and Windows 10 UWP.
 
+http://github.com/lbugnion/sample-azure-coinvalue
+
